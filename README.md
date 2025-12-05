@@ -526,27 +526,8 @@ db.close()
 
 ---
 
-## 🛣️ Roadmap
-
-### Version 1.1 (Planned)
-- [ ] Flask/FastAPI backend for web interface
-- [ ] User authentication system
-- [ ] PDF export functionality
-- [ ] HL7/FHIR integration
-- [ ] Advanced NLP with LLM integration
-
-### Version 2.0 (Future)
-- [ ] Real-time collaboration
-- [ ] Mobile apps (iOS/Android)
-- [ ] Voice authentication
-- [ ] AI-powered clinical suggestions
-- [ ] ICD-10 code auto-suggestion
-
----
-
 ## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
+- Contributions are welcome! Please follow these steps:
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
